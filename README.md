@@ -1,7 +1,8 @@
 # Brain-Tumor-Classification
-Brain tumor classification can be implemented using 7 pre-trained models
-The Classification isimplemented by using 7 pre-trained CNN models :
-VGG16
+Overview
+This repository contains code for Brain Tumor Classification using seven pre-trained deep learning models. The models have been trained on a diverse dataset and can be used for classifying brain tumor images into different categories.
+Models Included:
+Vgg16
 Vgg19
 MobileNetV2
 InceptionV3
